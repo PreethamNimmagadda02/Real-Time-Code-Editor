@@ -2,7 +2,7 @@
 
 ### `npm install -g create-react-app 🌟`
 
-First things first, install Create React App globally. It's like adding a magic wand to your coding toolkit.(Although I have used Visual Studio)
+First things first, install Create React App globally. It's like adding a magic wand to your coding toolkit.(Although I have used Visual Studio).
 
 ### `create-react-app 🚀`
 
